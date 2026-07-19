@@ -1,4 +1,4 @@
-# 📖 Character Analysis using NLP
+# Character Analysis using NLP
 
 This project is one of my learning projects while exploring **Natural Language Processing (NLP)** with **NLTK** and **spaCy**.
 
@@ -20,7 +20,7 @@ For this project- I have  used *The Palace of Illusions* by Chitra Banerjee Diva
 
 ---
 
-## 🧠 NLP Concepts Used
+##  NLP Concepts Used
 
 - Text preprocessing
 - Sentence & word tokenization
@@ -49,7 +49,7 @@ The notebook generates:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Open the notebook in Google Colab.
 2. Run the setup cells.
@@ -60,7 +60,7 @@ If your book uses a different chapter format, you may need to modify the chapter
 
 ---
 
-## ⚠️ Copyright
+##  Copyright
 
 This repository only contains the analysis code.
 
